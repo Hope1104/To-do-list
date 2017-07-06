@@ -1,0 +1,11 @@
+{
+  "appName": {
+    "message": "TestReduxExtension"
+  },
+  "appDescription": {
+    "message": "There is no description"
+  },
+  "appTooltip": {
+    "message": "Tooltip"
+  }
+}

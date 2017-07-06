@@ -1,0 +1,25 @@
+{
+  "cert": {
+    "file": "safari_developer.p12",
+    "pass": "jaro567"
+  },
+  "filename": "filename",
+  "update_safari": {
+    "update_url": "https://examp.le/file.plist",
+    "build_url": "https://examp.le/file.safariextz"
+  },
+  "safari_images": {
+    "Icon-128": "app/images/128x128.png",
+    "Icon-48": "app/images/48x48.png",
+    "Icon-24": "app/images/24x24.png"
+  },
+  "safari_translate": {
+    "name": "Safari Name",
+    "description": "Safari description",
+    "default_title": "Safari tooltip"
+  },
+  "browser_action": {
+    "width": 500,
+    "height": 500
+  }
+}
